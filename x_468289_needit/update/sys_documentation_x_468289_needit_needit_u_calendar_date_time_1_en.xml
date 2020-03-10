@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_calendar_date_time_1" label="New Calendar Date/Time" language="en" table="x_468289_needit_needit">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_calendar_date_time_1</element>
+            <help/>
+            <hint/>
+            <label>New Calendar Date/Time</label>
+            <language>en</language>
+            <name>x_468289_needit_needit</name>
+            <plural>New Calendar Date/Times</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-10 00:58:46</sys_created_on>
+            <sys_id>b5f443cc072f00101488fea89c1ed048</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>New Calendar Date/Time</sys_name>
+            <sys_package display_value="needit" source="x_468289_needit">9dab96b3075300101488fea89c1ed0ff</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="needit">9dab96b3075300101488fea89c1ed0ff</sys_scope>
+            <sys_update_name>sys_documentation_x_468289_needit_needit_u_calendar_date_time_1_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-10 00:58:46</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
